@@ -31,7 +31,7 @@ Aplikasi ini memungkinkan pengguna untuk memprediksi harga rumah berdasarkan beb
    ```shell
    pip install -r requirements.txt
    
-. Run the Flask application:
+3. Run the Flask application:
    
    ```shell
    python app.py
