@@ -26,13 +26,14 @@ Aplikasi ini memungkinkan pengguna untuk memprediksi harga rumah berdasarkan beb
 
 ## Cara Instalasi
 1. Clone repository ini
-2. Install dependencies
-  
-4. pip install -r requirements.txt
+2. Install the required dependencies:
+
+   ```shell
+   pip install -r requirements.txt
    
-5. Run the Flask application:
+. Run the Flask application:
    
    ```shell
    python app.py
 
-6. Open your web browser and visit http://localhost:5000 to use the web application for house price predictions.
+4. Open your web browser and visit http://localhost:5000 to use the web application for house price predictions.
